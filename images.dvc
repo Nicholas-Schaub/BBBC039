@@ -1,0 +1,8 @@
+md5: 43981b6e06008ac9c6b4181861cab987
+wdir: .
+outs:
+- md5: 15623e330e4ce536370666bdde436e4d.dir
+  path: images
+  cache: true
+  metric: false
+  persist: false
